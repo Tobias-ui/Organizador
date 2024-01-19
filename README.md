@@ -1,1 +1,3 @@
-Este es mi primer repositorio y lo pongo aca xq no es tanto un proyecto es más practica. No esta terminado.
+Primer reposito y avance en html y css 
+
+Esta pagina mini trata de organizacion y no tiene mucho, pero es lo que voy aprendiendo
